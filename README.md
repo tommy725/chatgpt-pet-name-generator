@@ -7,8 +7,8 @@ Pet name generator app using Chatgpt Api
 
 Screen 1               
 :-----------------------------------------------------------------------------:
-![](Screenshots/1.png)
+![](Screenshots/1.PNG)
 
 Screen 2
 :-----------------------------------------------------------------------------:
-![](Screenshots/2.png)
+![](Screenshots/2.PNG)
